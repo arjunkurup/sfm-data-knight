@@ -1,0 +1,10 @@
+{
+    "v2 unknown unknown 2880 2160 perspective 0": {
+        "projection_type": "perspective",
+        "width": 2880,
+        "height": 2160,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    }
+}
